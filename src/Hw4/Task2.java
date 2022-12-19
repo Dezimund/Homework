@@ -1,4 +1,4 @@
-package Hw2;
+package Hw4;
 
 import java.io.BufferedReader;
 import java.io.IOException;
